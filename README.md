@@ -1,2 +1,2 @@
 # Toroidal Accelerator
-An abstract electronics simulation tool with a flexible low-level emulation layer for multiple architectures.
+An abstract electronics simulation tool with a flexible low-level emulation layer for multiple computing architectures.
